@@ -22,6 +22,11 @@ body{
     color: var(--cor-secundaria);
 }
 
+.cabecalho__img{
+    border: 1px solid var(--cor-quarternaria);
+    border-radius: 100%;
+}
+
 .cabecalho{
     background-color: var(--cor-terciaria);
     padding: 24px;
@@ -34,11 +39,15 @@ body{
 }
 
 .cabecalho__menu__link{
+    display: flex;
     font-family: var(--font-Mont-S);
     font-weight: 600;
     font-size: 1.5rem;
     color: var(--cor-secundaria);
     text-decoration: none;
+    align-items: center;
+    gap: 2%;
+    white-space: nowrap;
 }
 
 .cabecalho__menu__link:hover{
@@ -156,14 +165,10 @@ body{
 
 @media(max-width: 1200px){
 
-    .cabecalho{
-        background-color: var(--cor-terciaria);
-    }
-
     .cabecalho__menu{
         justify-content: center;
         padding: 0;
-        gap: 40px;
+        gap: 20px;
     }
 
     .apresentacao{
