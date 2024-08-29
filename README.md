@@ -4,7 +4,7 @@
 <p>Projeto de front-end realizado durantes os cursos de HTML e CSS da Alura.</p>
 
 <h2>🔗Acesso ao Projeto</h2>
-<p>É possível acessar o projeto por este <a href="primeiro-site-drab.vercel.app">link</a></p>
+<p>É possível acessar o projeto por este <a href="https://primeiro-site-drab.vercel.app">link</a></p>
 
 <h2>⚙Tecnologias</h2>
 <div>
