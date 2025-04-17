@@ -1,7 +1,7 @@
 <h1>Primeiro site</h1>
 
 <h2>📑Sobre</h2>
-<p>Projeto de front-end realizado durantes os cursos de HTML e CSS da Alura. É um portifólio, que fala um pouco sobre mim e minhas habilidades.</p>
+<p>Projeto de front-end realizado durantes o projeto ONE. É um portifólio, que fala um pouco sobre mim e minhas habilidades.</p>
 
 <h2>🔗Acesso ao Projeto</h2>
 <p>É possível acessar o projeto por este <a href="https://primeiro-site-drab.vercel.app">link</a></p>
